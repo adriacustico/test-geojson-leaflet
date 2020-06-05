@@ -1,0 +1,52 @@
+{
+    "objectIdFieldName" : "FID", 
+    "globalIdFieldName" : "", 
+    "geometryType" : "ESRIGeometryPoint", 
+    "spatialReference" : {
+      "wkid" : 102100, 
+      "latestWkid" : 3857
+    }, 
+    "fields" : [
+      {
+        "name" : "Land_Use", 
+        "type" : "ESRIFieldTypeString", 
+        "alias" : "Land_Use", 
+        "sqlType" : "sqlTypeNVarchar", 
+        "length" : 254, 
+        "domain" : null, 
+        "defaultValue" : null
+      }
+    ], 
+    "features" : [
+      {
+        "attributes" : {
+          "Land_Use" : "I"
+        }, 
+        "geometry" : 
+        {
+          "x" : -9177311.62541634, 
+          "y" : 4247151.2052222416
+        }
+      }, 
+      {
+        "attributes" : {
+          "Land_Use" : "I"
+        }, 
+        "geometry" : 
+        {
+          "x" : -9177302.518331565, 
+          "y" : 4247155.3927341122
+        }
+      }, 
+      {
+        "attributes" : {
+          "Land_Use" : "I"
+        }, 
+        "geometry" : 
+        {
+          "x" : -9177381.8884007987, 
+          "y" : 4247204.22222955
+        }
+      }
+    ]
+  }
